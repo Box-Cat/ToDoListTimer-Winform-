@@ -89,7 +89,7 @@ namespace ToDoTimer
             textBoxToDo.Text = "";
             dateTimePickerStart.Text = "";
             dateTimePickerEnd.Text = "";
-            textBoxTime.Text = "";
+            maskedTextTime.Text = "";
         }
 
         private void btnRegister_Click(object sender, EventArgs e)
@@ -232,6 +232,8 @@ namespace ToDoTimer
                 {
                     dataGridViewTimer.Rows.RemoveAt(rowIndex);
                 }
+
+                SaveData();
             }
             else
             {
