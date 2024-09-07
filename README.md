@@ -4,3 +4,6 @@
 그리고 타이머 기능을 활성화 시켜 목표 시간을 채우는 것이 목표인 프로그램.
 
 JSON 형식으로 파일을 저장해서, 프로그램을 꺼도 지금까지 공부했던 기록이 남는다.
+
+
+![Form1-2024-09-08-01-37-46](https://github.com/user-attachments/assets/2842613e-ecbd-498a-aee1-5a23decc84df)
